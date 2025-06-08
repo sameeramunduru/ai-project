@@ -7,7 +7,7 @@ summarizer = pipeline("summarization")
 
 st.set_page_config(page_title="Text Summarizer", layout="centered")
 
-st.title("📝 Text Summarizer Web")
+st.title("📝 Text Summarizer Web App")
 st.write("Paste your text below and get a summary instantly.")
 
 
